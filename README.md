@@ -1,4 +1,4 @@
-# UART-FIFO-Counter-System
+# UART-FIFO-Counter_System
 SystemVerilog-based data processing system integrating UART communication, FIFO buffering, and counter control on FPGA.
 
 ## ✨Overview
