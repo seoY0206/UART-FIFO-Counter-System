@@ -110,7 +110,13 @@ UART-FIFO-Counter/
 ├── images/                 # 문서용 이미지
 └── README.md
 ```
+## 🏗️ 시스템 아키텍처
 
+### 📊 TOP Block Diagram
+![TOP Block Diagram](./images/top_blockdiagram.png)
+
+### 📊 PC & FPGA 동작 결과
+![PC FPGA Result](./images/verification_blockdiagram.png)
 ---
 
 ## 🚀 사용 방법
