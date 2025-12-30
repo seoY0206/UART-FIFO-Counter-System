@@ -55,7 +55,10 @@ UART 통신을 통해 수신된 데이터를 FIFO로 버퍼링하고, Counter �
 ```
 
 ### 📊 TOP Block Diagram
-![Block Diagram](./image/top_blockdiagram.png)
+<p align="center">
+  <img src="./image/top_blockdiagram.png" width="500">
+</p>
+
 
 ---
 
