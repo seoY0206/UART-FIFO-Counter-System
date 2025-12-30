@@ -55,8 +55,7 @@ UART 통신을 통해 수신된 데이터를 FIFO로 버퍼링하고, Counter �
 ```
 
 ### 📊 TOP Block Diagram
-![Block Diagram](./images/top_blockdiagram.png)
-*(이미지 파일이 있다면 images 폴더에 넣어주세요)*
+![Block Diagram](./image/top_blockdiagram.png)
 
 ---
 
@@ -110,13 +109,6 @@ UART-FIFO-Counter/
 ├── images/                 # 문서용 이미지
 └── README.md
 ```
-## 🏗️ 시스템 아키텍처
-
-### 📊 TOP Block Diagram
-![TOP Block Diagram](./images/top_blockdiagram.png)
-
-### 📊 PC & FPGA 동작 결과
-![PC FPGA Result](./images/verification_blockdiagram.png)
 ---
 
 ## 🚀 사용 방법
